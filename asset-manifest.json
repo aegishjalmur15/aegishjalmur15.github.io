@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ddf99cf9.js",
+    "static/media/reactIcon.svg": "/static/media/reactIcon.158b52e9446e65dae4e8b29fe9a20aa8.svg",
+    "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.f95482c2c16d377d1e6c7eb4ba18f86c.svg",
+    "static/media/nodejsIcon.svg": "/static/media/nodejsIcon.b4f7fd5c5cb0eabda14c22cc0f447403.svg",
+    "static/media/dotnetIcon.svg": "/static/media/dotnetIcon.152476ab1b3aef931c22066eb1df700b.svg",
+    "static/media/githubIcon.svg": "/static/media/githubIcon.78f2d194c715dbdf7bbca3c1c754a4bc.svg",
+    "index.html": "/index.html",
+    "main.ddf99cf9.js.map": "/static/js/main.ddf99cf9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ddf99cf9.js"
+  ]
+}
